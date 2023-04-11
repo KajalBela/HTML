@@ -1,0 +1,71 @@
+
+
+Website:
+
+
+Design: HTML/5,css/3,JS,jQuery, Bootstrap
+
+(static)
+
+(Dymanic)
+==> admin
+==> user
+
+Amazon
+
+Admin
+
+==> login
+==> manage(add/delete/create) users
+==> manage cates
+==> manage subcates
+==> manage products
+==> view cart (t)
+==> view payment (t)
+==> view order (t)
+==> view feedback (t)
+==>  view inquiry(t)
+User
+
+==> Register (t)
+==> login
+
+==> view cates (t)
+==> view subcates (t)
+==> view products (t)
+==> add to cart (t)
+==> payment (t)
+==> order (t)
+==> feedback (t)
+==> inquiry(t)
+
+PHP : (backend)
+server side language
+
+==> XAMPP,WAMPP,LAMPP,MAMPP (Local server)
+
+=> phpMyadmin ==> basically SQL (Structured Query Language) (BACKEND)
+
+https://www.javatpoint.com/dbms-sql-command
+
+
+MVC : model-View - Controller
+
+model ===> Database connection and all
+
+view === > DESIGN (html,css,js)
+
+controller ==> link between th e model and view
+
+CORE PHP (Project) 
+
+no framework (laravel,ci)
+
+no CMS (wordpress,joomla,magent0)
+
+
+
+
+
+
+
